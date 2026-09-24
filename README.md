@@ -1,1 +1,1 @@
-# havard_course_cs50
+# CS50
