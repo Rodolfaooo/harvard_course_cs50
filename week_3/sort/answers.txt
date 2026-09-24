@@ -1,0 +1,20 @@
+sort1 uses: Bubble sort
+
+How do you know?: Unlike sort3, sort1 was faster when using the sorted50000.txt file and slower with
+reversed50000.txt. From this, I realized it was Bubble Sort, as its Big-Omega is Ω(n) and its Big-O is O(n²).
+this indicates it performs faster on a list of sorted numbers than on one with reverse-sorted numbers.
+However, it remains slower than Merge Sort.
+
+sort2 uses: Merge sort
+
+How do you know?: I discovered that even when changing the files, specifically reversed50000.txt and
+sorted50000.txt, sort2 performed the sorting faster than the others. This is because, regardless of
+how the numbers are shuffled, both Big-O and Big-Omega are (n log n), indicating that the best-case and
+worst-case scenarios execute at the same speed.
+
+sort3 uses: Selection sort
+
+How do you know?: After analyzing the other two, I analyzed this one to be sure. I used the sorted50000.txt
+and reversed50000.txt files, just as I had with the others, and observed that it took the same amount of
+time for both files, given that they were the same size. From this, I realized it was Selection Sort, since
+the worst-case and best-case scenarios, specifically Big-O and Big-Omega, are identical, both being O(n²).
