@@ -26,12 +26,12 @@ E, como toda introdução tem, começamos escrevendo o "Hello, World!".
 <p>
   Exercícios realizados para a conclusão da aula:
   <ul>
-    <li><a href="path"><strong> Hello, World! </strong> </a> (Olá mundo)</li>
-    <li><a href="path"><strong> Hello, it's Me </strong> </a> (Boas-vindas ao nome que o usuário coloca como entrada)</li>
-    <li><a href="path"><strong> Mario Less </strong> </a> (Contruir uma escada de blocos de acordo com o input da altura fonecida pelo usuário)</li>
-    <li><a href="path"><strong> Mario More </strong> </a> (Construir duas escadas e contrárias com o input da altura fornecida pelo usuário)</li>
-    <li><a href="path"><strong> Cash </strong> </a> (Devolver o mínimo de moedas de acordo com o input do troco fornecido pelo usuário)</li>
-    <li><a href="path"><strong> Credit </strong> </a> (Validar se aquele número de cartão é verdadeiro ou não)</li>
+    <li><a href="week_1/world/"><strong> Hello, World! </strong></a> (Olá mundo)</li>
+    <li><a href="week_1/me"><strong> Hello, it's Me </strong></a> (Boas-vindas ao nome que o usuário coloca como entrada)</li>
+    <li><a href="week_1/mario-less"><strong> Mario Less </strong></a> (Contruir uma escada de blocos de acordo com o input da altura fonecida pelo usuário)</li>
+    <li><a href="week_1/mario-more"><strong> Mario More </strong></a> (Construir duas escadas e contrárias com o input da altura fornecida pelo usuário)</li>
+    <li><a href="week_1/cash"><strong> Cash </strong></a> (Devolver o mínimo de moedas de acordo com o input do troco fornecido pelo usuário)</li>
+    <li><a href="week_1/credit"><strong> Credit </strong></a> (Validar se aquele número de cartão é verdadeiro ou não)</li>
   </ul>
 </p>
 
