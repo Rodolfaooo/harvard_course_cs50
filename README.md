@@ -48,7 +48,7 @@ E, como toda introdução tem, começamos escrevendo o "Hello, World!".
   <ul>
     <li> <a href="week_2/scrabble"> <strong> Scrabble </strong> </a> (Criar palavras para fazer pontos)</li>
     <li> <a href="week_2/readability"> <strong> Readability </strong> </a> (Determinar o nível de leitura do texto fornecido) </li>
-    <li> <a href="week_2/caesar"> <strong> Caesar </strong> </a> (Criptografar e descriptografar utilizando a Cifra de César) </li>
-    <li> <a href="week_2/substitution"> <strong> Substitution </strong> </a> (Criptografar e descriptografar utilizando o método de Substituição) </li>
+    <li> <a href="week_2/caesar"> <strong> Caesar </strong> </a> (Criptografar utilizando a Cifra de César) </li>
+    <li> <a href="week_2/substitution"> <strong> Substitution </strong> </a> (Criptografar utilizando o método de Substituição) </li>
   </ul>
 </p>
