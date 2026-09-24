@@ -18,6 +18,6 @@
 
 <h2>Week_1</h2>
 
-<p align="justify>
+<p align="justify">
 Na aula dessa semana, foi explicado que as máquinas apenas entendem a forma binária. Enquanto nós escrevemos código, a máquina apenas entende 0 e 1, então o código feito pelo desenvolvedor é traduzido para assembly e depois para a linguagem de máquina. 
 </p>
