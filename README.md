@@ -26,6 +26,7 @@ E, como toda introdução tem, começamos escrevendo o "Hello, World!".
 <p>
   Exercícios realizados para a conclusão da aula:
   <ul>
+    <li><a href="path"><strong> Hello, World! </strong> </a> (Olá mundo)</li>
     <li><a href="path"><strong> Hello, it's Me </strong> </a> (Boas-vindas ao nome que o usuário coloca como entrada)</li>
     <li><a href="path"><strong> Mario Less </strong> </a> (Contruir uma escada de blocos de acordo com o input da altura fonecida pelo usuário)</li>
     <li><a href="path"><strong> Mario More </strong> </a> (Construir duas escadas e contrárias com o input da altura fornecida pelo usuário)</li>
