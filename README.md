@@ -24,7 +24,7 @@ E, como toda introdução tem, começamos escrevendo o "Hello, World!".
 </p>
 
 <p>
-  Exercícios realizados para a conclusão da aula:
+  Exercícios realizados para a conclusão da semana:
   <ul>
     <li><a href="week_1/world/"><strong> Hello, World! </strong></a> (Olá mundo)</li>
     <li><a href="week_1/me"><strong> Hello, it's Me </strong></a> (Boas-vindas ao nome que o usuário coloca como entrada)</li>
@@ -39,4 +39,16 @@ E, como toda introdução tem, começamos escrevendo o "Hello, World!".
 
 <h2>Week_2</h2>
 
+<p align="justify">
+  Nessa semana, estudamos sobre os níveis de leitura, abordando como calcular o nível de determinado texto. Ademais, nessa aula foi explicado sobre arrays de diferentes tipos, um dos que mais gostei de entender foi a string, que também é um array de caracteres,  por possuir diversos tamanhos e, para identificar seu final, é utilizado o '\0'. Aqui também aprendemos algumas funções de cada biblioteca como o strlen(), isalpha() e por ai vai. Além disso, foi explicado como variáveis são armazenadas na memória, quanto de espaço ocupa e o motivo de em certas ocasiões utilizar arrays do que várias variáveis. Entendemos que os caracteres são números, então podemos soma-los a números e/ou fazer diversas outras operações.
+</p>
 
+<p>
+  Exercícios realizados para a conclusão da semana:
+  <ul>
+    <li> <a href="week_2/scrabble"> <strong> Scrabble </strong> </a> (Criar palavras para fazer pontos)</li>
+    <li> <a href="week_2/readability"> <strong> Readability </strong> </a> (Determinar o nível de leitura do texto fornecido) </li>
+    <li> <a href="week_2/caesar"> <strong> Caesar </strong> </a> (Criptografar e descriptografar utilizando a Cifra de César) </li>
+    <li> <a href="week_2/substitution"> <strong> Substitution </strong> </a> (Criptografar e descriptografar utilizando o método de Substituição </li>
+  </ul>
+</p>
