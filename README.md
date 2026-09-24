@@ -63,7 +63,7 @@ E, como toda introdução tem, começamos escrevendo o "Hello, World!".
 
 <p>
   <ul>
-    <li><a href="week_3/sort"><strong>Sort</strong></a> (Identificar os tipos de ordenaçãos utilizados comparando o tempo de cada um)</li>
+    <li><a href="week_3/sort"><strong>Sort</strong></a> (Identificar os tipos de ordenaçãos utilizados comparando o tempo de cada sort)</li>
     <li><a href=""><strong>Plurality</strong></a> (A fazer...)</li>
     <li><a href=""><strong>Runoff</strong></a> (A fazer...)</li>
     <li><a href=""><strong>Tideman</strong></a> (A fazer...)</li>
