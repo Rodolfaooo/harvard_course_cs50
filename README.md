@@ -16,7 +16,7 @@
 
 ---
 
-<h2>Week_1</h2>
+<h2>Week 1</h2>
 
 <p align="justify">
 Na aula desta semana, foi explicado que as máquinas entendem a forma binária. Enquanto nós escrevemos código, a máquina apenas entende 0 e 1, então o código feito pelo desenvolvedor é traduzido para Assembly e depois para a linguagem de máquina. Além disso, foram ensinadas condições, tipos, variáveis, loops, funções, formatação de código e alguns outros complementares.
@@ -37,7 +37,7 @@ E, como toda introdução tem, começamos escrevendo o "Hello, World!".
 
 ---
 
-<h2>Week_2</h2>
+<h2>Week 2</h2>
 
 <p align="justify">
   Nesta semana, estudamos sobre os níveis de leitura, abordando como calcular o nível de determinado texto. Ademais, nessa aula foi explicado sobre arrays de diferentes tipos, um dos que mais gostei de entender foi a string, que também é um array de caracteres, por possuir diversos tamanhos e, para identificar seu final, é utilizado o '\0'. Aqui também aprendemos algumas funções de cada biblioteca como o strlen(), isalpha() e por aí vai. Além disso, foi explicado como variáveis são armazenadas na memória, quanto de espaço ocupam e o motivo de em certas ocasiões utilizar arrays do que várias variáveis. Entendemos que os caracteres são números, então podemos somá-los a números e/ou fazer diversas outras operações.
@@ -50,5 +50,22 @@ E, como toda introdução tem, começamos escrevendo o "Hello, World!".
     <li> <a href="week_2/readability"> <strong> Readability </strong> </a> (Determinar o nível de leitura do texto fornecido) </li>
     <li> <a href="week_2/caesar"> <strong> Caesar </strong> </a> (Criptografar utilizando a Cifra de César) </li>
     <li> <a href="week_2/substitution"> <strong> Substitution </strong> </a> (Criptografar utilizando o método de Substituição) </li>
+  </ul>
+</p>
+
+---
+
+<h2>Week 3</h2>
+
+<p align="justify">
+  Aqui aprendemos sobre algoritmos de busca e de ordenação. Vimos o funcionamento de Busca Linear (Linear Search), Busca Binária (Binary Search), Bubble Sort, Selection Sort, Merge Sort e o conceito de Recursão. Analisamos a diferença de desempenho entre cada um deles utilizando a Notação Big O, classificando-os em categorias de complexidade como O(n²), O(n), O(n log n), O(log n) e O(1). Além disso, observamos como criar dados personalizados, utilizando o typedef, em linguagem C.
+</p>
+
+<p>
+  <ul>
+    <li><a href=""><strong>Sort</strong></a> (Identificar os tipos de ordenaçãos utilizados comparando o tempo de cada um)</li>
+    <li><a href=""><strong>Plurality</strong></a>(A fazer...</li>
+    <li><a href=""><strong>Runoff</strong></a> (A fazer...)</li>
+    <li><a href=""><strong>Tideman</strong></a>(A fazer...)</li>
   </ul>
 </p>
